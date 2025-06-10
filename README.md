@@ -12,4 +12,5 @@ A modern, AI-powered supply chain dashboard built with Next.js and React.
 - **Interactive Analytics** - Dynamic charts and data visualizations
 - **Live Data Updates** - Real-time alerts and market intelligence
 
-## 🛠️ Tech Stack
+## 🛠️ deployment link
+https://vercel.com/kshitizsingh1688-1672s-projects/supply_chain_dashboard
